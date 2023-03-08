@@ -1,0 +1,10 @@
+header:
+  - '&6&m                                     '
+  - RRffff|Diamond Craft
+  - '&6>&e|Welcome, !player!'
+  - '§aOnline: &l!online'
+  - '&6&m                                     '
+footer:
+  - 'RR00ff|Ping: !ping'
+  - '&5www.google.com'
+  - '&6&m                                     '

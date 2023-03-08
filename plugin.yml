@@ -1,0 +1,8 @@
+main: com.junioraww.glitterbox.Main
+name: Glitterbox
+version: 1.0
+api-version: 1.19
+commands:
+  glitterbox:
+    description: Plugin info
+    aliases: [gb]

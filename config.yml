@@ -1,0 +1,8 @@
+display-ping: false
+custom-motd:
+  enable: true
+  lines:
+  - '&dI love my dog||&dI love my cat'
+  - '&aVery nice!||&bImpressive!'
+  slots: 1
+  icon: true
